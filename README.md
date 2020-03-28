@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Be The Hero é uma aplicação que visa conectar pessoas que tenham interesse em ajudar Ongs que possuem campanhas abertas.
 
 
-                                             Feito com ♥ by Rocketseat/Yasmimnascimentoo
+                                         Feito com ♥ by Rocketseat/Yasmimnascimentoo
